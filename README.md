@@ -1,6 +1,6 @@
 # Resolução do desafio Notification Page
 
-Resolução do desafio proposto pela plataforma <a>Frotend Mentor</a> com o intuito de melhorar minhas habilidades em ReactJS e Styled Components
+Resolução do desafio proposto pela plataforma [Frontend Mentor](https://www.frontendmentor.io/home) com o intuito de melhorar minhas habilidades em ReactJS e Styled Components
 
 <a href="https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC" target="_blank">Desafio<a/>
 <br/>
